@@ -1,7 +1,7 @@
-Network Discovery
+Node Finder
 =================
 
-Machines discovery/mapping (over Wifi) and port scan (over 3G/Wifi) utility for Android devices.
+Node Finding (over Wifi) and port scan utility for Android devices.
 
 Features
 --------
